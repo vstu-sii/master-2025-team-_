@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_sZciJPS)# D1 — PRD (Product Requirements Document)
+# D1 — PRD (Product Requirements Document)
 
 Задачей проекта является создание AI Expense Tracker – умного помощника учета расходов. Данная разработка должна решать проблему для таких групп пользователей как:
 
